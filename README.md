@@ -49,6 +49,7 @@ git push -u origin main
 Replace `YOUR-USERNAME` with your GitHub username and use the URL of your repository.
 
 ## Deploy with Streamlit Community Cloud
+dashboard link:https://gdp-dashboard-j1esbri2m.streamlit.app/
 
 1. Push this project to GitHub.
 2. Sign in to Streamlit Community Cloud with GitHub.
